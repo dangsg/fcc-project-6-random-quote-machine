@@ -1,0 +1,42 @@
+body {
+	/*height: 100v;*/
+}
+
+h1 {
+	text-align: center;
+	margin-top: 80px;
+	font-size: 40px;
+}
+
+#quote-box {
+	text-align: center;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightgrey;
+	width: 60%;
+	padding: 20px;
+}
+
+#text {
+	/*font-family: */
+	font-size: 25px;
+}
+
+#author {
+	font-size: 20px;
+}
+
+#new-quote {
+	background-color: orange;
+	border-radius: 20px;
+	/*margin-right: -300px;*/
+	margin-left: 300px;
+}
+
+#tweet-quote {
+	/*background-color: white;*/
+	font-size: 25px;
+}
+
+
